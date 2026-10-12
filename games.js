@@ -13,6 +13,7 @@ const GAMES = [
     color: "teal",
     image: "images/IMG_2611.jpeg",
     category: "GAMESBYME"
+  }
 ];
 
 // FORCE SHELF TO LOAD ON INITIAL PAGE LOAD
