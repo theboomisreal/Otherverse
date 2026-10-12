@@ -11,7 +11,7 @@ const GAMES = [
     slug: "Unblocktorium",
     description: "play the best unblocked games with state of the art stealth fetures and no ads",
     color: "teal",
-    image: "images/IMG_2611.jpeg",
+    image: "images/IMG_2611.png",
     category: "GAMESBYME"
   }
 ];
